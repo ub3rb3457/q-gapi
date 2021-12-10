@@ -1,0 +1,22 @@
+{
+  "name": "quasar-app-extension-qgapi",
+  "version": "0.0.1",
+  "description": "an easy way to add the gapi js client to your quasar(v2) project ",
+  "author": "ub3rb3457 <perchance2dream86@gmail.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ub3rb3457/q-gapi"
+  },
+  "bugs": "https://github.",
+  "homepage": "https://www.graymatterdigital.org",
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  }
+}
